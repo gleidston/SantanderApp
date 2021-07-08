@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SantanderApp</string>
+    <string name="cliente">Ola Cliente </string>
+    <string name="agencia">AG 3058 Cc 01090054-9</string>
+    <string name="saldo"> Saldo Disponivel  </string>
+    <string name="saldo_disponivel"> 8.000,00 R$ </string>
+    <string name="saldo_limite"> saldo + limite 22.000,00 R$ </string>
+    <string name="extrato"> Ver extrato </string>
+    <string name="pagar"> Pagar </string>
+    <string name="transferir"> Transferencia</string>
+    <string name="recarga"> Recarga </string>
+    <string name="cartao"> Cratao final 3068 </string>
+</resources>
