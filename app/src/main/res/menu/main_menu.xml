@@ -11,8 +11,7 @@
 
     <item
         android:id="@+id/action_If_roon"
+        android:icon="@drawable/ic_notifications_none_black_24dp"
         android:title="ir para tela status"
-        app:showAsAction="ifRoom"
-        android:icon="@drawable/whatsapp"
-        />
+        app:showAsAction="ifRoom" />
 </menu>
